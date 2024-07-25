@@ -26,7 +26,7 @@ A personal portfolio website to showcase my projects, skills, and experiences. T
 
 - **Technologies Used:** HTML, CSS
 
-    Check the live demo here 👉️ [http://127.0.0.1:5500/index.html](http://127.0.0.1:5500/index.html)
+    Check the live demo here 👉️ [http://127.0.0.1:5502/index.html](http://127.0.0.1:5502/index.html)
   
 **3. Calculator**
 
