@@ -34,7 +34,7 @@ A functional and user-friendly calculator application that performs basic arithm
 
 - **Technologies Used:** HTML, CSS, JavaScript
 
-  Check the live demo here 👉️ [http://127.0.0.1:5500/index.html](http://127.0.0.1:5500/index.html)
+  Check the live demo here 👉️ [http://127.0.0.1:5503/index.html](http://127.0.0.1:5503/index.html)
   
   
 
