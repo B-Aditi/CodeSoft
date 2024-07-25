@@ -3,7 +3,9 @@
 This repository contains the projects I developed during my web development internship at Codesoft. These projects showcase my skills in HTML, CSS, and JavaScript, and include:
 
 **1. Landing Page**
+
 **2. Portfolio**
+
 **3. Calculator**
 
 ### Projects
